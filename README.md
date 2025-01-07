@@ -1,5 +1,8 @@
 
-![Hamxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamxy&hide=stars,prs,contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=swift)![Hamxy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=swift&hide=glsl,astro,makefile,rust,c%2B%2B,shell,go&layout=donut&&size_weight=0.5&count_weight=0.5)
+[![Hamxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamxy&hide=stars,contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=swift&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Hamxy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamxy&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img margin="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamxy&langs_count=5&layout=donut&theme=swift&size_weight=0.5&count_weight=0.5" />
+</a>
 
 
 
