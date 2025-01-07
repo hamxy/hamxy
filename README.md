@@ -1,9 +1,14 @@
-
-[![Hamxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamxy&hide=stars,contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=swift&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Hamxy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamxy&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img margin="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamxy&langs_count=5&layout=donut&theme=swift&size_weight=0.5&count_weight=0.5" />
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=hamxy&show_icons=true&theme=swift&hide=contribs&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
-
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=hamxy&langs_count=8&layout=donut&theme=swift&card_width=150" />
+</a>
+<a href=#><img src="github-user-contribution.svg"></a>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hamxy/count.svg" />
+</p>
 
 
 <!--
@@ -19,4 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hamxy&theme=swift" />
+</p>
+
 -->
