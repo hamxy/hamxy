@@ -27,15 +27,15 @@
 </p>
 <!-- 
   Waka Time
--->
   <p align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hamxy?theme=midnight-purple" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hamxy&theme=swif" />
   <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/wakatime?username=hamxy&theme=swif" />
 </picture>
 </p>
+-->
+
 
 <!--
   Snake
@@ -55,13 +55,18 @@
 
 ---
 
-👋 Welcome to my GitHub profile. Here, I share the projects I’m working on while improving my programming skills and exploring new technologies.
+# 👋 Welcome to my GitHub profile. 
+### Here, I share the projects I’m working on while improving my programming skills and exploring new technologies.
 
 ## 🎯 Current Projects
 
 <p align="center">
   <a href="https://github.com/hamxy/linkcut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamxy&repo=LinkCut&theme=swift">
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hamxy&repo=LinkCut&theme=midnight-purple" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hamxy&repo=LinkCut&theme=swift" />
+  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/pin/?username=hamxy&repo=LinkCut&theme=swift" />
+</picture>
   </a>
   </p>
 
