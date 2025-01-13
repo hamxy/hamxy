@@ -1,3 +1,5 @@
+# 👋 Welcome to my GitHub profile. 
+
 <!--
   Github Stats & Most Used Languages
 -->
@@ -54,9 +56,6 @@
 
 
 ---
-
-# 👋 Welcome to my GitHub profile. 
-### Here, I share the projects I’m working on while improving my programming skills and exploring new technologies.
 
 ## 🎯 Current Projects
 
